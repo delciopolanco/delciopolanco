@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hithere 👋, I'm Delcio Polanco, Welcome to my github account.
 
 <!--
 **delciopolanco/delciopolanco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a Software Engineer, working as a Fullstack Developer. I'm really like learn new things about technology and software, proud to be from 🇩🇴, love my family 👪 and consider myself as a Javascript Lover.
+
+👨🏻‍💻 Working with JavaScript, Angular, ReactJs, Node.js, SQL, MongoDB and IONIC 📲.
+🔭 I’m currently working on Banco BHDLeon Do as a Team Lead 👨🏻‍💻
+📚 Member of many developers groups in 🇩🇴,
+🌱 I'm currently learning about algorithmics
+📫 Reach me on Instagram, Twitter or ClubHouse.
+🧱 Fun fact: I'm a good dancer! 🕺
+
