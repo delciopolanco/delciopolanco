@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 I'm a Software Engineer, working as a Fullstack Developer. I'm really like learn new things about technology and software, proud to be from 🇩🇴, love my family 👪 and consider myself as a Javascript Lover.
 
-👨🏻‍💻 Working with JavaScript, Angular, ReactJs, Node.js, SQL, MongoDB and IONIC 📲.
-🔭 I’m currently working on Banco BHDLeon Do as a Team Lead 👨🏻‍💻
-📚 Member of many developers groups in 🇩🇴,
-🌱 I'm currently learning about algorithmics
-📫 Reach me on Instagram, Twitter or ClubHouse.
-🧱 Fun fact: I'm a good dancer! 🕺
+- 👨🏻‍💻 Working with JavaScript, Angular, ReactJs, Node.js, SQL, MongoDB and IONIC 📲.
+- 🔭 I’m currently working on Banco BHDLeon Do as a Team Lead 👨🏻‍💻
+- 📚 Member of many developers groups in 🇩🇴,
+- 🤔 I’m looking for help with algorithmics, if you can help me please don't hesitate to reach me out.
+- 📫 Reach me on Instagram, Twitter or ClubHouse.
+- 🧱 Fun fact: I'm a good dancer! 🕺
 
